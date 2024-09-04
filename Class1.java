@@ -12,6 +12,5 @@ public class Class1 {
     private void f2() {
         // added function v2.0
     }
-
   
 }
