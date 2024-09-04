@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author William Sellers
  */
 
 public class Class2 {
@@ -9,4 +9,10 @@ public class Class2 {
         // v1.0
     }
 
+    private void f2() {
+        // added function v2.0
+    }
+
+
+    
 }
