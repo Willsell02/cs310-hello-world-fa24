@@ -15,5 +15,7 @@ public class Class1 {
     private void f3() {
         // added function v3.0
     }
-    
+    private void f4() {
+        // added function v4.0
+    }
 }

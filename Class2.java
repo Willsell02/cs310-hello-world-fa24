@@ -16,6 +16,5 @@ public class Class2 {
         // added function v3.0
     }
     
-
     
 }
